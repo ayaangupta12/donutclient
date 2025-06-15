@@ -1,4 +1,26 @@
+Donut client Devs:
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
+infinitydude12:
+ 
+ -started the whole thing
+ - Messed around with everything
+ - Made GitHub
+ - Made Client
+ - Did nothing else
+ - uhh
+ - [text here]
+
+super30man: 
+ - did a lot of stuff 
+ - made majority of client
+ - did all the code 
+ - co-founder of donut client
+ - uhh
+ - idk what to put here.
+ - windows user.
+
+~~~~~~~~~~~~~~~~~~~~~
  EaglercraftX Developers
  ~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -27,12 +49,6 @@
   - Added screen recording
   - Added seamless fullscreen
   - Created the replit
-
-Infinitydude12:
-- Made Donut Client
-- Did nothing else
-- Uhh
-- [text here]
 
  cire3:
 
